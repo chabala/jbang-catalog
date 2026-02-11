@@ -1,0 +1,8 @@
+{
+  "aliases": {
+    "env": {
+      "script-ref": "https://gist.github.com/chabala/5686245dc2194b5be0f028690b5ca9e5",
+      "description": "List environment variables and Java system properties"
+    }
+  }
+}
