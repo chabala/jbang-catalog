@@ -3,6 +3,10 @@
     "env": {
       "script-ref": "https://gist.github.com/chabala/5686245dc2194b5be0f028690b5ca9e5",
       "description": "List environment variables and Java system properties"
+    },
+    "play-audio": {
+      "script-ref": "https://gist.github.com/chabala/4162f09913dbfb5a61a2eab67d46fa79",
+      "description": "Play a specified sound file"
     }
   }
 }
