@@ -7,6 +7,10 @@
     "play-audio": {
       "script-ref": "https://gist.github.com/chabala/4162f09913dbfb5a61a2eab67d46fa79",
       "description": "Play a specified sound file"
+    },
+    "quack": {
+      "script-ref": "https://gist.github.com/chabala/7a89e84e9d4d1bdfb058762df12a826d",
+      "description": "Play a quack"
     }
   }
 }
